@@ -28,10 +28,10 @@ Project Steps:
 
 Required Python libraries:
 
-* pyspark 2.4.3
-* pandas 0.24.1
-* matplotlib 3.0.2 
-* seaborn 0.9.0 
+* PySpark 
+* Pandas
+* Matplotlib 
+* Seaborn  
 
 
 ## Project Motivation<a name="Motivation"></a>
