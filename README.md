@@ -45,12 +45,31 @@ The goal of this project is to learn how to manipulate large and realistic datas
 
 1. `mini_sparkify_event_data.json` is the data used and it is a mini subset (128MB) of the full dataset available (12GB)
 2. [Sparkify.ipynb](./Sparkify.ipynb) notebook contains all steps involved in the project
-3.   The logistic model built
-4. The SVM model 
-5. The GBT model 
+3. [gbt.model](./gbt.model) The GBT model built
+4. [svm.model](./svm.model)The SVM model 
+5. [logistic.model](./logistic.model)The Logistic model 
+6. 
 
 ## Results<a name="results"></a> 
 
+After carrying out EDA on the data understanding the different levels of the dataset and how it impacted churn. We created features that were later used in building three machine learning models, namely: Logistic regression, Support Vector Machine(SVM), and Graident Boosted Tree (GBT).
+
+Amongst the three models, the GBT performed best with good f1 scores and hight accuracy score of 99% although it took a longer time to train.
+
+The models resulted in:
+
+* logistic regression (best f1 score 0.7641) (Accuracy of the best Logistic model: 83.88%)
+* Support Vector Machine (best f1 score 0.7534) (Accuracy of the best SVM model: 83.69%)
+* Graident Boosted Tree (best f1 score 0.7621 ) (Accuracy of the best GBT model: 99.05%)
+
+The best being the GBT
+
+
+More detailed findings and analysis can be found in the blog post on Medium
+
+
+## Acknowledgements<a name="Acknowledgements"></a> 
+The data used in this project was provided by Udacity as part of the ***[Data Scientist Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025)*** 
 
 
 
