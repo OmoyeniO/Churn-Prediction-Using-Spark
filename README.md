@@ -96,6 +96,10 @@ The models resulted in:
 The best being the GBT
 
 
+
+
+## Blog
+
 More detailed findings and analysis can be found in the blog post on [Medium](https://omoyeni-ogundipe.medium.com/churn-prediction-using-pyspark-on-big-data-fce0e0f0f1d4) 
 
 
