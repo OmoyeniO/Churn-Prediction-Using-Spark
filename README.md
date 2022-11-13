@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
   <a href="https://github.com/OmoyeniO/Churn-Prediction-Using-Spark">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fclassification-analysis-on-telco-customer-churn-a01599ad28d7&psig=AOvVaw1mqJsel_Oh38SnICUywr8a&ust=1668384804776000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNjri-_vqfsCFQAAAAAdAAAAABAJ" alt="Logo" width="800" height="300">
+    <img src="sparkify_img" alt="Logo" >
   </a>
 
 
