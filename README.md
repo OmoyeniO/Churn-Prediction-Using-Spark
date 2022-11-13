@@ -1,8 +1,12 @@
 <!-- PROJECT LOGO -->
 <br />
+<p align="center">
+  
   <a href="https://github.com/OmoyeniO/Churn-Prediction-Using-Spark">
     <img src="sparkify_img.png" alt="Logo", width = 500 >
   </a>
+  
+</p>
 
 
 
