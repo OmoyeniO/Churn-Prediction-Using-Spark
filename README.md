@@ -91,7 +91,7 @@ The models resulted in:
 
 * logistic regression (best f1 score 0.7641) (Accuracy of the best Logistic model: 83.88%)
 * Support Vector Machine (best f1 score 0.7534) (Accuracy of the best SVM model: 83.69%)
-* Graident Boosted Tree (best f1 score 0.7621 ) (Accuracy of the best GBT model: 99.05%)
+* Gradient Boosted Tree (best f1 score 0.7621 ) (Accuracy of the best GBT model: 99.05%)
 
 The best being the GBT
 
