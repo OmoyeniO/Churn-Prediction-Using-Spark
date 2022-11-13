@@ -48,7 +48,7 @@ The goal of this project is to learn how to manipulate large and realistic datas
 3. [gbt.model](./gbt.model) The GBT model built
 4. [svm.model](./svm.model)The SVM model 
 5. [logistic.model](./logistic.model)The Logistic model 
-6. 
+
 
 ## Results<a name="results"></a> 
 
@@ -69,7 +69,7 @@ More detailed findings and analysis can be found in the blog post on Medium
 
 
 ## Acknowledgements<a name="Acknowledgements"></a> 
-The data used in this project was provided by Udacity as part of the ***[Data Scientist Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025)*** 
+The data used in this project was provided by Udacity as part of the ***[Data Science Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025)*** 
 
 
 
