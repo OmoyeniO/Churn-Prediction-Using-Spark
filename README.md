@@ -1,4 +1,14 @@
-# Churn Prediction Using Spark
+<!-- PROJECT LOGO -->
+<br />
+  <a href="https://github.com/OmoyeniO/Churn-Prediction-Using-Spark">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fclassification-analysis-on-telco-customer-churn-a01599ad28d7&psig=AOvVaw1mqJsel_Oh38SnICUywr8a&ust=1668384804776000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNjri-_vqfsCFQAAAAAdAAAAABAJ" alt="Logo" width="800" height="300">
+  </a>
+
+
+
+
+
+
 
 ### Table of Contents
 
@@ -8,6 +18,11 @@
 4. [Files Description](#Files)
 5. [Results](#Results)
 6. [Acknowledgements](#Acknowledgements)
+
+
+
+# Churn Prediction Using Spark
+
 
 
 ##  Background<a name="Background"></a>
@@ -24,6 +39,9 @@ Project Steps:
 * Results
 * Conclusion
 
+
+
+
 ##  Installation<a name="Installation"></a>
 
 Required Python libraries:
@@ -34,11 +52,17 @@ Required Python libraries:
 * Seaborn  
 
 
+
+
+
 ## Project Motivation<a name="Motivation"></a>
 
 This is a Capstone project done in conjuction with Udacity as part of the requirement for the Data Science Nanodegree program.
 
 The goal of this project is to learn how to manipulate large and realistic datasets with Spark to engineer relevant features for predicting churn. I want to learn how to use Spark MLlib to build machine learning models with large datasets, far beyond what could be done with non-distributed technologies like scikit-learn.
+
+
+
 
 
 ## Files Description<a name="files"></a>
@@ -48,6 +72,9 @@ The goal of this project is to learn how to manipulate large and realistic datas
 3. [gbt.model](./gbt.model) The GBT model built
 4. [svm.model](./svm.model)The SVM model 
 5. [logistic.model](./logistic.model)The Logistic model 
+
+
+
 
 
 ## Results<a name="results"></a> 
@@ -66,6 +93,9 @@ The best being the GBT
 
 
 More detailed findings and analysis can be found in the blog post on Medium
+
+
+
 
 
 ## Acknowledgements<a name="Acknowledgements"></a> 
